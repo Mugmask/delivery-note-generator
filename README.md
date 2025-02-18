@@ -1,27 +1,31 @@
-# 📦 Generador de Remitos
+# 📦 Delivery Note Generator
 
-Una aplicación web para generar remitos en PDF y visualizar los generados.
+A web application to generate delivery notes in PDF and view previously created ones.
 
-## ✨ Características
+## ✨ Features
 
-- 📄 **Generación de remitos en PDF**.
-- 🔍 **Vista previa antes de descargar**.
-- 🌗 **Modo oscuro automático**.
-- 🗂️ **Historial de remitos generados**.
+- 📄 **Generate delivery notes in PDF**.
+- 🔍 **Preview before downloading**.
+- 🗂️ **History of generated delivery notes**.
 
-## 🛠 Instalación y Uso
+## 🚀 Technologies Used
 
-1. **Clonar el repositorio**
+- **Typescript** ⚛️
+- **ShadCN** 🖌️
+- **Tailwind CSS** 🎨
+
+## 🛠 Installation & Usage
+
+1. **Clone the repository**
    ```sh
    git clone https://github.com/Mugmask/delivery-note-generator.git
-   cd generador-remitos
+   cd delivery-note-generator
    ```
-2. **Instalar dependencias**
+2. **Install dependencies**
    ```sh
    pnpm install
    ```
-3. **Iniciar el proyecto**
+3. **Start the project**
    ```sh
    pnpm dev
    ```
-
